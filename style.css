@@ -1,0 +1,93 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.super{
+  color: #14183e;
+  font-size: 50px;
+}
+.superman {
+  color: #14183e;
+  font-size: 20px;
+}
+.su {
+  padding: 10px;
+  text-align: center;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1240px;
+}
+pok {
+  color: #5e6282;
+  padding: 10px;
+}
+hola {
+  color: #14183e;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+.kosta{
+  padding: 100px;
+  gap: 70px;
+}
+.doska {
+  right: 100px;
+  text-align: center;
+  margin-top: 30px;
+}
+.ilon {
+  margin-left: 50px;
+}
+
+.ilon-2 {
+  position: relative;
+  background-color: whitesmoke;
+  border-radius: 30px;
+}
+.div-9::before {
+  content: " ";
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 450px;
+  left: 850px;
+  z-index: -1;
+  background-image: url(./Rectangle\ 157.png);
+}
+.div-30 {
+  text-align: center;
+}
+.op {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  padding: 100px;
+}
+.ilar{
+  width: 400px;
+  height: 500px;
+
+  border-radius: 30px;
+}
+.kilar {
+  font-size: 30px;
+}
+.loar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.ejar {
+  display: flex;
+}
+.iuiar {
+  width: 10px;
+  height: 10px;
+}
